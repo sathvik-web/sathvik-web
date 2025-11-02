@@ -9,16 +9,15 @@
 
 ## About
 
-I am an undergraduate student specializing in **Artificial Intelligence and Machine Learning** at **Woxsen University**. My academic interests lie in the study and application of intelligent systems, with an emphasis on deep learning, computer vision, and data-driven modeling. I aim to contribute to the development of efficient and ethical AI systems capable of solving practical and socially relevant problems.
+I am an undergraduate student specializing in **Artificial Intelligence and Machine Learning** at **Woxsen University**. My academic interests lie in the study and application of intelligent systems, with an emphasis on deep learning and data analysis.
 
 ---
 
 ## Academic and Research Interests
 
 - **Machine Learning and Deep Learning**
-- **Computer Vision and Image Processing**
+- **Data Analysis and Visualization**
 - **Natural Language Processing**
-- **Data Mining and Knowledge Discovery**
 - **Federated and Distributed Learning**
 - **Cloud Computing and Simulation (CloudSim)**
 - **Data Warehousing and Big Data Analytics**
@@ -40,7 +39,9 @@ I am an undergraduate student specializing in **Artificial Intelligence and Mach
 ## Projects and Work
 
 - **Federated Learning for Medical Imaging**  
-  Developed and tested distributed deep learning models using Flower (FLWR) and TensorFlow for pneumonia detection from chest X-ray datasets.  
+  Developed and tested distributed deep learning models using Flower (FLWR) and TensorFlow for pneumonia detection from chest X-ray datasets.
+- **Iot Based Supply Chain Management**
+  Dashboard for keeping the track of the goods like temperature,humidity,etc in a dashboard and sending alerts so as to keep the products in good condition. 
 
 ---
 
@@ -53,13 +54,12 @@ To advance expertise in artificial intelligence and machine learning through res
 ## Contact
 
 LinkedIn:https://www.linkedin.com/in/sathvik-dantu-b72580283?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B97Hgecg6RsOuDqY1mR7Ieg%3D%3D
-Email:sathvikdantu@yahoo.com 
+Email:sathvikdantu45@gmail.com 
 
 ---
 
 ## GitHub Statistics
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
 
 
