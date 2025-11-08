@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# DSN Sathvik
+# Sathvik Dantu
 
 **Undergraduate Student | Artificial Intelligence and Machine Learning**  
 **Woxsen University**
@@ -53,7 +53,7 @@ To advance expertise in artificial intelligence and machine learning through res
 
 ## Contact
 
-LinkedIn:https://www.linkedin.com/in/sathvik-dantu-b72580283?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B97Hgecg6RsOuDqY1mR7Ieg%3D%3D
+
 Email:sathvikdantu45@gmail.com 
 
 ---
