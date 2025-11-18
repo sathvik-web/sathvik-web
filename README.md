@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Sathvik Dantu
 
 **Undergraduate Student | Artificial Intelligence and Machine Learning**  
