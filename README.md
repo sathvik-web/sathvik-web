@@ -49,15 +49,5 @@ To advance expertise in artificial intelligence and machine learning through res
 
 ---
 
-## Contact
-
-
-Email:sathvikdantu45@gmail.com 
-
----
-
-## GitHub Statistics
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default)  
 
 
